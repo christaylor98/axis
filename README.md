@@ -92,8 +92,8 @@ Tiers:  🟢 **Built** (runs today)  ·  🔵 **Building** (active, partial)  ·
 
 **Applications & governance**
 - 🟡 axAporia — autonomous-vehicle controller; never acts during UNKNOWN. **Designed**
-- 🔵 ax-workflow — semantic workflow; UNKNOWN as a governed state, policy clauses as code. **Building**
-- 🔵 AI Factory — governance-first AI execution; auditable gates, immutable ledger; fraud-detection PoC. **Building**
+- 🔵 [ax-workflow](https://github.com/christaylor98/axis-workflow-demo) — semantic workflow; UNKNOWN as a governed state, policy clauses as code. **Building**
+- 🔵 [AI Factory](https://github.com/christaylor98/ai-factory) — governance-first AI execution; auditable gates, immutable ledger; fraud-detection PoC. **Building**
 
 ## The biology arm
 
